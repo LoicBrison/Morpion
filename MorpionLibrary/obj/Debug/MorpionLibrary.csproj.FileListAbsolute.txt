@@ -1,0 +1,6 @@
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary\bin\Debug\MorpionLibrary.dll
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary\bin\Debug\MorpionLibrary.pdb
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary\obj\Debug\MorpionLibrary.csproj.AssemblyReference.cache
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary\obj\Debug\MorpionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary\obj\Debug\MorpionLibrary.dll
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary\obj\Debug\MorpionLibrary.pdb

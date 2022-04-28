@@ -1,0 +1,5 @@
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary\bin\Release\MorpionLibrary.dll
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary\bin\Release\MorpionLibrary.pdb
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary\obj\Release\MorpionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary\obj\Release\MorpionLibrary.dll
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary\obj\Release\MorpionLibrary.pdb

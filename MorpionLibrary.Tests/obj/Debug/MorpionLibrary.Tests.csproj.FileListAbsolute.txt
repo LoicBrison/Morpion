@@ -1,0 +1,17 @@
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary.Tests\bin\Debug\MorpionLibrary.Tests.dll
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary.Tests\bin\Debug\MorpionLibrary.Tests.pdb
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary.Tests\bin\Debug\MorpionLibrary.dll
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary.Tests\bin\Debug\MorpionLibrary.pdb
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary.Tests\bin\Debug\fr\Microsoft.Pex.Framework.resources.dll
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary.Tests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary.Tests\bin\Debug\fr\Microsoft.ExtendedReflection.resources.dll
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary.Tests\obj\Debug\MorpionLibrary.Tests.csproj.AssemblyReference.cache
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary.Tests\obj\Debug\MorpionLibrary.Tests.csproj.CoreCompileInputs.cache
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary.Tests\obj\Debug\MorpionLibrary.Tests.csproj.CopyComplete
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary.Tests\obj\Debug\MorpionLibrary.Tests.dll
+C:\Users\EliottM\source\repos\Morpion\MorpionLibrary.Tests\obj\Debug\MorpionLibrary.Tests.pdb

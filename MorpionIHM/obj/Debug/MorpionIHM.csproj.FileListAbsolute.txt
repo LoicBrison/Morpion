@@ -1,0 +1,13 @@
+C:\Users\EliottM\source\repos\Morpion\MorpionIHM\bin\Debug\MorpionIHM.exe.config
+C:\Users\EliottM\source\repos\Morpion\MorpionIHM\bin\Debug\MorpionIHM.exe
+C:\Users\EliottM\source\repos\Morpion\MorpionIHM\bin\Debug\MorpionIHM.pdb
+C:\Users\EliottM\source\repos\Morpion\MorpionIHM\bin\Debug\MorpionLibrary.dll
+C:\Users\EliottM\source\repos\Morpion\MorpionIHM\bin\Debug\MorpionLibrary.pdb
+C:\Users\EliottM\source\repos\Morpion\MorpionIHM\obj\Debug\MorpionIHM.csproj.AssemblyReference.cache
+C:\Users\EliottM\source\repos\Morpion\MorpionIHM\obj\Debug\MorpionIHM.MainWindow.resources
+C:\Users\EliottM\source\repos\Morpion\MorpionIHM\obj\Debug\MorpionIHM.Properties.Resources.resources
+C:\Users\EliottM\source\repos\Morpion\MorpionIHM\obj\Debug\MorpionIHM.csproj.GenerateResource.cache
+C:\Users\EliottM\source\repos\Morpion\MorpionIHM\obj\Debug\MorpionIHM.csproj.CoreCompileInputs.cache
+C:\Users\EliottM\source\repos\Morpion\MorpionIHM\obj\Debug\MorpionIHM.csproj.CopyComplete
+C:\Users\EliottM\source\repos\Morpion\MorpionIHM\obj\Debug\MorpionIHM.exe
+C:\Users\EliottM\source\repos\Morpion\MorpionIHM\obj\Debug\MorpionIHM.pdb

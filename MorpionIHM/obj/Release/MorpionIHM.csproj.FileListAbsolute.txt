@@ -1,0 +1,13 @@
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionIHM\bin\Release\MorpionIHM.exe.config
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionIHM\bin\Release\MorpionIHM.exe
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionIHM\bin\Release\MorpionIHM.pdb
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionIHM\bin\Release\MorpionLibrary.dll
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionIHM\bin\Release\MorpionLibrary.pdb
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionIHM\obj\Release\MorpionIHM.csproj.AssemblyReference.cache
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionIHM\obj\Release\MorpionIHM.MainWindow.resources
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionIHM\obj\Release\MorpionIHM.Properties.Resources.resources
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionIHM\obj\Release\MorpionIHM.csproj.GenerateResource.cache
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionIHM\obj\Release\MorpionIHM.csproj.CoreCompileInputs.cache
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionIHM\obj\Release\MorpionIHM.csproj.CopyComplete
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionIHM\obj\Release\MorpionIHM.exe
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionIHM\obj\Release\MorpionIHM.pdb

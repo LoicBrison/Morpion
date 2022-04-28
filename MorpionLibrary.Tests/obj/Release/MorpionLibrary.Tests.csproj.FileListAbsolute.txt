@@ -1,0 +1,17 @@
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary.Tests\bin\Release\MorpionLibrary.Tests.dll
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary.Tests\bin\Release\MorpionLibrary.Tests.pdb
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary.Tests\bin\Release\Microsoft.Pex.Framework.dll
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary.Tests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary.Tests\bin\Release\MorpionLibrary.dll
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary.Tests\bin\Release\Microsoft.ExtendedReflection.Reasoning.dll
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary.Tests\bin\Release\Microsoft.ExtendedReflection.dll
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary.Tests\bin\Release\MorpionLibrary.pdb
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary.Tests\bin\Release\Microsoft.Pex.Framework.xml
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary.Tests\bin\Release\fr\Microsoft.Pex.Framework.resources.dll
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary.Tests\bin\Release\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary.Tests\bin\Release\fr\Microsoft.ExtendedReflection.resources.dll
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary.Tests\obj\Release\MorpionLibrary.Tests.csproj.AssemblyReference.cache
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary.Tests\obj\Release\MorpionLibrary.Tests.csproj.CoreCompileInputs.cache
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary.Tests\obj\Release\MorpionLibrary.Tests.csproj.CopyComplete
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary.Tests\obj\Release\MorpionLibrary.Tests.dll
+C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary.Tests\obj\Release\MorpionLibrary.Tests.pdb
