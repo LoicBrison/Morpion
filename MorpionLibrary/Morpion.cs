@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MorpionLibrary
 {
-    public class Morpion
+    public class Morpion : IMorpion
     {
         private Joueur j1;
         private Joueur j2;

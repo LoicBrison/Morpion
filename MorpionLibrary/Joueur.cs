@@ -13,6 +13,7 @@ namespace MorpionLibrary
         private IA ia;
         public string Nom { get => nom; set => nom = value; }
         public bool IsIA { get => isIA; set => isIA = value; }
+
         public Joueur(string nom)
         {
             // Si le nom est different de Null ou qu'avec des espaces
