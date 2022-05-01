@@ -16,9 +16,9 @@ namespace MorpionLibrary
 
         public Joueur JoueurCourant { get => joueurCourant; set => joueurCourant = value; }
         public Joueur J1 { get => j1; set => j1 = value; }
+        public Joueur J2 { get => j2; set => j2 = value; }
 
         public Case[] Cases { get => cases; }
-
 
         //Morpion demande 2 joueurs pour commencer
         public Morpion(Joueur j1, Joueur j2)

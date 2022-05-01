@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorpionLibrary", "MorpionLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorpionLibrary.Tests", "MorpionLibrary.Tests\MorpionLibrary.Tests.csproj", "{606811E9-F964-49C2-9BB9-582849352EA2}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MorpionSetup", "MorpionSetup\MorpionSetup.vdproj", "{8E7A800A-80BF-4CA6-BFBF-27AE418B7C3B}"
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MorpionSetup", "MorpionSetup\MorpionSetup.vdproj", "{05CA8681-6460-4E29-BFF4-BFA20561AC52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,8 +29,8 @@ Global
 		{606811E9-F964-49C2-9BB9-582849352EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{606811E9-F964-49C2-9BB9-582849352EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{606811E9-F964-49C2-9BB9-582849352EA2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8E7A800A-80BF-4CA6-BFBF-27AE418B7C3B}.Debug|Any CPU.ActiveCfg = Debug
-		{8E7A800A-80BF-4CA6-BFBF-27AE418B7C3B}.Release|Any CPU.ActiveCfg = Release
+		{05CA8681-6460-4E29-BFF4-BFA20561AC52}.Debug|Any CPU.ActiveCfg = Debug
+		{05CA8681-6460-4E29-BFF4-BFA20561AC52}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

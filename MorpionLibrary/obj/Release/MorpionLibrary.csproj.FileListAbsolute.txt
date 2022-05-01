@@ -3,3 +3,9 @@ C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary\bin\Release\M
 C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary\obj\Release\MorpionLibrary.csproj.CoreCompileInputs.cache
 C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary\obj\Release\MorpionLibrary.dll
 C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionLibrary\obj\Release\MorpionLibrary.pdb
+D:\Documents\Code\Projet Morpion\Morpion\MorpionLibrary\bin\Release\MorpionLibrary.dll
+D:\Documents\Code\Projet Morpion\Morpion\MorpionLibrary\bin\Release\MorpionLibrary.pdb
+D:\Documents\Code\Projet Morpion\Morpion\MorpionLibrary\obj\Release\MorpionLibrary.csproj.CoreCompileInputs.cache
+D:\Documents\Code\Projet Morpion\Morpion\MorpionLibrary\obj\Release\MorpionLibrary.dll
+D:\Documents\Code\Projet Morpion\Morpion\MorpionLibrary\obj\Release\MorpionLibrary.pdb
+D:\Documents\Code\Projet Morpion\Morpion\MorpionLibrary\obj\Release\MorpionLibrary.csproj.AssemblyReference.cache

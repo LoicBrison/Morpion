@@ -91,12 +91,12 @@ namespace MorpionLibrary
                         {
                             // On simule un coup
                             m.JoueurCourant = m.J1;
-                            //Console.WriteLine("Min Joueur :" + m.JoueurCourant.Nom);
+                            Console.WriteLine("Min Joueur :" + m.JoueurCourant.Nom);
                             m.getCase(i, j).MarqueePar = m.JoueurCourant;
 
                             tmp = this.CalcMax(m);
-                            //Console.WriteLine("CalcMAX x: " + i + " y: " + j);
-                            //Console.WriteLine("tmp: " + tmp);
+                            Console.WriteLine("CalcMAX x: " + i + " y: " + j);
+                            Console.WriteLine("tmp: " + tmp);
 
                             if (tmp < min)
                             {
@@ -136,14 +136,14 @@ namespace MorpionLibrary
                         {
                             // On simule un coup
                             m.JoueurSuivant();
-                            //Console.WriteLine("Max Joueur :" + m.JoueurCourant.Nom);
+                            Console.WriteLine("Max Joueur :" + m.JoueurCourant.Nom);
                             m.Joue(i, j);
                             //m.JoueurSuivant();
 
                             tmp = this.CalcMin(m);
 
-                            //Console.WriteLine("CalcMIN x: " + i + " y: " + j);
-                            //Console.WriteLine("tmp: " + tmp);
+                            Console.WriteLine("CalcMIN x: " + i + " y: " + j);
+                            Console.WriteLine("tmp: " + tmp);
 
                             if (tmp > max)
                             {

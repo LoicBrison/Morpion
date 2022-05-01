@@ -11,3 +11,16 @@ C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionIHM\obj\Release\Morpi
 C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionIHM\obj\Release\MorpionIHM.csproj.CopyComplete
 C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionIHM\obj\Release\MorpionIHM.exe
 C:\Users\EliottM\Desktop\ProjetMorpion\Morpion - v2\MorpionIHM\obj\Release\MorpionIHM.pdb
+D:\Documents\Code\Projet Morpion\Morpion\MorpionIHM\bin\Release\MorpionIHM.exe.config
+D:\Documents\Code\Projet Morpion\Morpion\MorpionIHM\bin\Release\MorpionIHM.exe
+D:\Documents\Code\Projet Morpion\Morpion\MorpionIHM\bin\Release\MorpionIHM.pdb
+D:\Documents\Code\Projet Morpion\Morpion\MorpionIHM\bin\Release\MorpionLibrary.dll
+D:\Documents\Code\Projet Morpion\Morpion\MorpionIHM\bin\Release\MorpionLibrary.pdb
+D:\Documents\Code\Projet Morpion\Morpion\MorpionIHM\obj\Release\MorpionIHM.csproj.AssemblyReference.cache
+D:\Documents\Code\Projet Morpion\Morpion\MorpionIHM\obj\Release\MorpionIHM.MainWindow.resources
+D:\Documents\Code\Projet Morpion\Morpion\MorpionIHM\obj\Release\MorpionIHM.Properties.Resources.resources
+D:\Documents\Code\Projet Morpion\Morpion\MorpionIHM\obj\Release\MorpionIHM.csproj.GenerateResource.cache
+D:\Documents\Code\Projet Morpion\Morpion\MorpionIHM\obj\Release\MorpionIHM.csproj.CoreCompileInputs.cache
+D:\Documents\Code\Projet Morpion\Morpion\MorpionIHM\obj\Release\MorpionIHM.csproj.CopyComplete
+D:\Documents\Code\Projet Morpion\Morpion\MorpionIHM\obj\Release\MorpionIHM.exe
+D:\Documents\Code\Projet Morpion\Morpion\MorpionIHM\obj\Release\MorpionIHM.pdb
